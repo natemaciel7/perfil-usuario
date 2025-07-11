@@ -4,16 +4,18 @@ Este é um projeto fullstack simples de cadastro, edição, visualização e exc
 Desenvolvido com **React.js** no frontend e **Node.js + Express + MySQL** no backend.
 
 ## Funcionalidades
-* Listar todos os usuários
-* Cadastrar novo usuário (com foto de perfil)
-* Editar perfil de usuário
-* Visualizar detalhes do perfil
-* Deletar usuário
+
+- Listar todos os usuários
+- Cadastrar novo usuário (com foto de perfil)
+- Editar perfil de usuário
+- Visualizar detalhes do perfil
+- Deletar usuário
 
 ## Tecnologias Utilizadas
-* **Frontend:** React.js, Bootstrap
-* **Backend:** Node.js, Express, MySQL
-* **Upload de imagens:** `multer`
+
+- **Frontend:** React.js, Bootstrap
+- **Backend:** Node.js, Express, MySQL
+- **Upload de imagens:** `multer`
 
 ---
 
@@ -109,14 +111,10 @@ app.use("/uploads", express.static("uploads"));
 
 ---
 
-## Deploy (planejado)
+## Deploy
 
-* Frontend: Vercel
-* Backend: Render ou outro serviço compatível com Node.js + MySQL
-* As imagens precisarão ser armazenadas em um bucket (como S3) ou em banco de dados base64 para funcionar online. Atualmente elas estão armazenadas localmente e funcionarão apenas em ambiente local.
+- Frontend: Vercel
+- Backend: Render ou outro serviço compatível com Node.js + MySQL
+- As imagens precisarão ser armazenadas em um bucket (como S3) ou em banco de dados base64 para funcionar online. Atualmente elas estão armazenadas localmente e funcionarão apenas em ambiente local.
 
 ---
-
-## Autor
-
-Projeto desenvolvido por \[Seu Nome].
