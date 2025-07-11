@@ -24,7 +24,7 @@ Desenvolvido com **React.js** no frontend e **Node.js + Express + MySQL** no bac
 ### 1. Clone o repositório
 
 ```bash
-https://github.com/seu-usuario/seu-repo.git
+https://github.com/natemaciel7/perfil-usuario
 ```
 
 ### 2. Instale as dependências
